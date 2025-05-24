@@ -1,0 +1,655 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|c:\\users\\rocio\\documents\\dam2\\proyecto\\proyecto final\\huellaanimalia\\huellaanimalia\\informeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informeproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informeproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informeproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informeproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informeempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informeempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informecategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informecategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HuellaAnimalia||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\formventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\formventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\formproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\formproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\formcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\formcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\formcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informecompras.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informecompras.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ROCIO_DOCUMENTS_DAM2_PROYECTO_HUELLAANIMALIA___ENTREGA5_HUELLAANIMALIA_DATABASE1.MDF/True/SqlTable/dbo.Empleado.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\formventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\formventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informeventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informecategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informecategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informeproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informeproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informeempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informeempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informeproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informeproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\formcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\formcompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\formproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\formproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\formcategorias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\formcategorias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informeventas.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informeventas.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informeproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informeproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informeempleados.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informeempleados.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\informeproveedores.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\informeproveedores.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\huellaanimalia\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}|HuellaAnimalia\\HuellaAnimalia.csproj|solutionrelative:huellaanimalia\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DI\\Aplicacion\\HuellaAnimalia 2024120015\\HuellaAnimalia\\Database1DataSet.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormCompra.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\FormCompra.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormCompra.cs",
+              "RelativeToolTip": "HuellaAnimalia\\FormCompra.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwC0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:01:45.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormProductos.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\FormProductos.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormProductos.cs",
+              "RelativeToolTip": "HuellaAnimalia\\FormProductos.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:02:18.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormProveedores.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\FormProveedores.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormProveedores.cs",
+              "RelativeToolTip": "HuellaAnimalia\\FormProveedores.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:11:39.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormVenta.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\FormVenta.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormVenta.cs",
+              "RelativeToolTip": "HuellaAnimalia\\FormVenta.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwDEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:32:52.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HuellaAnimalia",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\HuellaAnimalia.csproj",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\HuellaAnimalia.csproj",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\HuellaAnimalia.csproj",
+              "RelativeToolTip": "HuellaAnimalia\\HuellaAnimalia.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-06T16:56:05.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InformeCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeCategorias.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeCategorias.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeCategorias.cs",
+              "RelativeToolTip": "HuellaAnimalia\\InformeCategorias.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:52:42.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InformeClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeClientes.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeClientes.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeClientes.cs",
+              "RelativeToolTip": "HuellaAnimalia\\InformeClientes.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:53:51.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InformeEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeEmpleados.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeEmpleados.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeEmpleados.cs",
+              "RelativeToolTip": "HuellaAnimalia\\InformeEmpleados.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:05:45.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InformeProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeProductos.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeProductos.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeProductos.cs",
+              "RelativeToolTip": "HuellaAnimalia\\InformeProductos.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T10:47:53.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InformeProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeProveedores.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeProveedores.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeProveedores.cs",
+              "RelativeToolTip": "HuellaAnimalia\\InformeProveedores.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T10:50:49.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InformeVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeVentas.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeVentas.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeVentas.cs",
+              "RelativeToolTip": "HuellaAnimalia\\InformeVentas.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowCIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:46:43.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormCategorias.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormCategorias.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\FormCategorias.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormCategorias.cs",
+              "RelativeToolTip": "HuellaAnimalia\\FormCategorias.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:25:37.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\Form3.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\Form3.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\Form3.cs",
+              "RelativeToolTip": "HuellaAnimalia\\Form3.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:14:25.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\Form2.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\Form2.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\Form2.cs",
+              "RelativeToolTip": "HuellaAnimalia\\Form2.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:17:16.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\Form1.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\Form1.cs",
+              "RelativeToolTip": "HuellaAnimalia\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T16:05:34.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InformeCompras.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeCompras.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeCompras.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeCompras.cs",
+              "RelativeToolTip": "HuellaAnimalia\\InformeCompras.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:37:06.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InformeCompras.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeCompras.rdlc",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeCompras.rdlc",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\InformeCompras.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\InformeCompras.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-19T16:58:44.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InformeCompras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeCompras.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeCompras.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\InformeCompras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\InformeCompras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T17:16:15.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Database1DataSet.Designer.cs",
+              "DocumentMoniker": "E:\\DI\\Aplicacion\\HuellaAnimalia 2024120015\\HuellaAnimalia\\Database1DataSet.Designer.cs",
+              "ToolTip": "E:\\DI\\Aplicacion\\HuellaAnimalia 2024120015\\HuellaAnimalia\\Database1DataSet.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:55:44.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dbo.Empleado.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ROCIO_DOCUMENTS_DAM2_PROYECTO_HUELLAANIMALIA___ENTREGA5_HUELLAANIMALIA_DATABASE1.MDF/True/SqlTable/dbo.Empleado.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ROCIO_DOCUMENTS_DAM2_PROYECTO_HUELLAANIMALIA___ENTREGA5_HUELLAANIMALIA_DATABASE1.MDF/True/SqlTable/dbo.Empleado.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-11T08:52:24.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\Empleados.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\Empleados.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\Empleados.cs",
+              "RelativeToolTip": "HuellaAnimalia\\Empleados.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:38:05.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormProductos.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\FormProductos.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HuellaAnimalia\\FormProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:40:20.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormVenta.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\FormVenta.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HuellaAnimalia\\FormVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:18:08.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Empleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\Empleados.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\Empleados.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\Empleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\Empleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:07:59.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\Form3.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\Form3.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HuellaAnimalia\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:54:25.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InformeVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeVentas.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeVentas.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HuellaAnimalia\\InformeVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:44:37.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InformeClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeClientes.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeClientes.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HuellaAnimalia\\InformeClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T07:51:47.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\Form1.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "..\\..\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:57:18.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InformeCategorias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeCategorias.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeCategorias.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeCategorias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HuellaAnimalia\\InformeCategorias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:53:37.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\Form2.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\Form2.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HuellaAnimalia\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:11:41.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InformeEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeEmpleados.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeEmpleados.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HuellaAnimalia\\InformeEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T17:51:35.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InformeProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeProductos.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeProductos.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HuellaAnimalia\\InformeProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:52:30.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "InformeProveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeProveedores.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeProveedores.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeProveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HuellaAnimalia\\InformeProveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:28:40.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormProveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormProveedores.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\FormProveedores.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormProveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HuellaAnimalia\\FormProveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:08:24.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormCompra.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormCompra.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\FormCompra.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormCompra.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HuellaAnimalia\\FormCompra.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:33:31.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormCategorias.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormCategorias.Designer.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\FormCategorias.Designer.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\FormCategorias.Designer.cs",
+              "RelativeToolTip": "HuellaAnimalia\\FormCategorias.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:01:40.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "InformeVentas.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeVentas.rdlc",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeVentas.rdlc",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\InformeVentas.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\InformeVentas.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-18T18:34:17.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "InformeProductos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeProductos.Designer.cs",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeProductos.Designer.cs",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeProductos.Designer.cs",
+              "RelativeToolTip": "HuellaAnimalia\\InformeProductos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:52:27.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InformeEmpleados.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeEmpleados.rdlc",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeEmpleados.rdlc",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\InformeEmpleados.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\InformeEmpleados.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-18T09:13:01.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Report1.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\Report1.rdlc",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\Report1.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\Report1.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-18T07:42:30.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InformeProveedores.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\Proyecto Final\\HuellaAnimalia\\HuellaAnimalia\\InformeProveedores.rdlc",
+              "RelativeDocumentMoniker": "HuellaAnimalia\\InformeProveedores.rdlc",
+              "ToolTip": "C:\\Users\\Rocio\\Documents\\DAM2\\Proyecto\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\InformeProveedores.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\HuellaAnimalia - Entrega5\\HuellaAnimalia\\InformeProveedores.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-12-18T21:16:32.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuellaAnimalia", "HuellaAnimalia\HuellaAnimalia.csproj", "{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstaladorHuellaAnimalia", "InstaladorHuellaAnimalia\InstaladorHuellaAnimalia.vdproj", "{AC62DD7D-BA96-41DA-A04E-C936211CAD53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B325E7C-19B9-4823-AECC-C8AB9B4FCBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC62DD7D-BA96-41DA-A04E-C936211CAD53}.Debug|Any CPU.ActiveCfg = Debug
+		{AC62DD7D-BA96-41DA-A04E-C936211CAD53}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17E884CC-DECB-4F3D-8E11-FE87B511A372}
+	EndGlobalSection
+EndGlobal
